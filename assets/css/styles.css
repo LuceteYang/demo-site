@@ -139,11 +139,11 @@ header nav li {
 	background-position: center;
 }
 
-.destination .grid li.small {
-	flex-basis: 
+.destinations .grid li.small {
+	flex-basis: 30%
 }
-.destination .grid li.large {
-	flex-basis: 
+.destinations .grid li.large {
+	flex-basis: 70%
 }
 
 
