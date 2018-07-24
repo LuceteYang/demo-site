@@ -8,9 +8,10 @@ html {
 	font: normal 16px sans-serif;
 	color: #555;
 }
-nav {
+nav, ul {
 	list-style: none;
 }
+
 a {
 	text-decoration:none;
 	opacity: 0.75;
